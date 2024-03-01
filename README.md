@@ -1,5 +1,4 @@
-# Nome do Projeto 📜
-Projeto Rally Pontuações
+# Projeto Rally Pontuações📜
 
 ## Problema a Ser Resolvido ☕️
 Utilize o TDA vetor e faça um programa para ler dois conjuntos de pontuações
