@@ -7,4 +7,4 @@ Calcular a média de cada um e indicar qual deles teve a melhor média. Imprimir
 pontuações lidas, as médias e quem obteve a melhor média.
 
 ## Metodo de Resolução ✨
-Foi necessário usar varias funções para imprimir os paramêtros pedidos, primeiros foram pedidas as pontuações, depois a media foi calculado. Por fim o programa imprime os dados trabalhados durante a execução, e a maior media entre os pilotos.
+Foi necessário usar varias funções para conseguir os paramêtros pedidos, primeiros foram pedidas as pontuações, depois a media foi calculado. Por fim o programa imprime os dados trabalhados durante a execução, e a maior media entre os pilotos.
